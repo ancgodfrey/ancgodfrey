@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Learning. Scientist in training at University of Oregon, she/her, email ancgodfrey@gmail.com
+
 <!--
 **ancgodfrey/ancgodfrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
